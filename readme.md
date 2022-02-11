@@ -1,9 +1,9 @@
 # EXEMPLE BASIQUE D'UTILISATION DE L'ARCHTECHTURE MVC
    # Dans cette partie, nous allons montrer un cas pratique d'utilisation du modèle MVC  
 
-    ```text
-        ce mini projet est un exemple de programme simple qui parcour une liste d'apprennats et les regroupes en deux catégories : kilifeuh / sokhna
-    ```
+      
+        **ce mini projet est un exemple de programme simple qui parcour une liste d'apprennats et les regroupes en deux catégories : kilifeuh / sokhna**
+  
 
   > architechture du projet , suivant le modèle MVC 
    - dossiers 
